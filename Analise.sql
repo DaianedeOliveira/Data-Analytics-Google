@@ -39,7 +39,7 @@ homicidioCulposo AS(
 
 SELECT hd.porcentagemHD, hc.porcentagemHC, ROUND(hd.porcentagemHD - hc.porcentagemHC,2) AS diferenca
 FROM homicidioDoloso hd
-INNER JOIN homicidioCulposo hc ON hd.id_municipio	 = hc.id_municipio
+INNER JOIN homicidioCulposo hc ON hd.id_municipio	= hc.id_municipio
 
 -- Qual a região com mais vítimas de latrocínios?
 
