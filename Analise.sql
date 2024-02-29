@@ -53,5 +53,5 @@ LIMIT 10
 SELECT ano, mes, SUM(latrocinio) AS latrocinio, ROUND(AVG(latrocinio) * 100,2) AS mediaLatrocinio 
 FROM `basedosdados.br_sp_gov_ssp.ocorrencias_registradas`
 WHERE ano >= 2019 AND latrocinio IS NOT NULL
-group by mes, ano
+GROUP BY mes, ano
 ORDER BY ano, mes ASC
