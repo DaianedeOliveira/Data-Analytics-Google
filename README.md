@@ -6,5 +6,5 @@ Esse projeto foi a realização da entrega final do curso Análise de Dados do G
    #
  # Cenário
 
-Analisar dados sobre a segurança no Estado de São Paulo. Observando qual ano teve mais homicídio doloso, roubo de veículos... Assim, teremos à disposição, informações para identificar qual ano/mês, a segurança de SP foi desfoque em tratar de acontecimentos incoerentes que coloca a vida do paulistano, em risco.
+Analisar dados sobre a segurança no Estado de São Paulo. Observando qual ano teve mais homicídio doloso, roubo de veículos... Assim, teremos à disposição, informações para identificar qual ano/mês, a segurança de SP foi desfoque em tratar de acontecimentos incoerentes que coloca a vida do paulistano em risco.
 
